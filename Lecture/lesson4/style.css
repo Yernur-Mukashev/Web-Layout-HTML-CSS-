@@ -1,0 +1,21 @@
+.text-color {
+  color: rebeccapurple
+}
+
+.navbar-background {
+  background: rgb(102, 92, 92);
+}
+
+.center {
+  padding-left: calc(50% - 600px);
+  padding-right: calc(50% - 600px);
+}
+
+.product-box {
+  gap: 32px;
+  flex-wrap: wrap;
+}
+
+.breadcrumb-item a {
+  text-decoration: none;
+}
